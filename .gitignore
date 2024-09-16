@@ -12,7 +12,6 @@ hs_err_*
 .metals
 *.iml
 bin
-build
 target
 out
 
